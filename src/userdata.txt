@@ -1,0 +1,7 @@
+a,a,a
+mbk,7667,zorro
+deneme,deneme,deneme hesabı
+deneme1,deneme1,deneme
+admin,admin,ADMIN BUGRA
+bgr,123,bugra baygul
+demo,demo,bugra
